@@ -1,4 +1,3 @@
-
 // initialize global variables.
 var edges;
 var nodes;

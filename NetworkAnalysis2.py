@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 25 14:22:43 2022
-
-@author: avery smith 
+@author: Gambhir Sharma
 """
 
 # Import libraries
@@ -155,5 +153,5 @@ for node in network_graph.nodes:
     node['value'] = len(neighbor_map[node['id']])
 
 # display graph
-network_graph.show('NFTMap.html')
+network_graph.show('index.html')
 
