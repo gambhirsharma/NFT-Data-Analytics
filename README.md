@@ -1,5 +1,5 @@
 # <p align="center"> NFT Network Analytics</p>
-### <p align="center">This repo will help you get started analyzing NFT data.</p>
+### <p align="center"> This Repo is a Data Science Project that Analyse the NFT network. </p>
 
 # Screen-Shot📸
 
